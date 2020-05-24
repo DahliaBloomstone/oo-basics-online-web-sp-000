@@ -5,4 +5,14 @@ class Shoe
 
 def initialize(brand)
   @brand = brand
-end 
+end
+
+def shoe_repair
+  puts "The shoe has been repaired!"
+end
+
+def shoe_condition
+  puts "The shoe is new!"
+end
+
+end
