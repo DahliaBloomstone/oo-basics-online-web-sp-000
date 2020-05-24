@@ -7,12 +7,9 @@ def initialize(brand)
   @brand = brand
 end
 
-def shoe_repair
-  puts "The shoe has been repaired!"
-end
-
-def shoe_condition
-  puts "The shoe is new!"
+def cobble
+  puts "The shoe has been repaired"
+puts "The shoe is new!"
 end
 
 end
