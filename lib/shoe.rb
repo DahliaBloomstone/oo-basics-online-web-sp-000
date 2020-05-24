@@ -9,7 +9,4 @@ end
 
 def cobble
   puts "The shoe has been repaired"
-puts "The shoe is new!"
-end
-
 end
